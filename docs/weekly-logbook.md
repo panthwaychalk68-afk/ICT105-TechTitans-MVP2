@@ -32,4 +32,5 @@ Our most important team decision was finalizing the core theme of our venture: w
 - Conduct surveys and interviews with students. 
 - Identify user pain points and existing alternatives. 
 - Analyze opportunity areas. 
-- Prepare Lab 2 documentation.
+- Prepare Lab 2 documentation. 
+ 
