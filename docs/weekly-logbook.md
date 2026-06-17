@@ -68,9 +68,10 @@ This idea aims to help students and staff find available parking spaces and redu
 
 ## What We Learned
 
-NUF scoring helps compare different ideas objectively.
-A successful project should be innovative, useful, and feasible to develop.
-QR code technology is a simple and effective solution for improving classroom attendance management.
+- Opportunity scanning helps identify real-world problems that can be solved using technology.
+- NUF scoring provides a structured way to compare multiple ideas objectively.
+- A successful project should be innovative, useful to users, and feasible to develop with available resources.
+- QR code and GPS technologies can be combined to create a practical solution for attendance management.
 
 ## Evidence of Work
 
